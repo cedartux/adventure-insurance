@@ -1,1 +1,1 @@
-# adventure-insurance.github.io
+# adventure-insurance
